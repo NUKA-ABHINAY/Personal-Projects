@@ -1,7 +1,6 @@
 **Parkinson’s Disease Prediction using Machine Learning**
 
-**📌 Project Overview
-**
+**📌 Project Overview**
 - This project focuses on building a machine learning-based predictive system for the early detection of Parkinson’s disease using biomedical voice measurements. Early diagnosis is critical for timely treatment and better management of the disease.
 
 **🎯 Goal**
@@ -39,8 +38,7 @@
 - Scikit-learn
 - Matplotlib, Seaborn
 
-**📈 Results
-**
+**📈 Results**
 - Both models achieved reliable prediction accuracy
 - SVM outperformed Logistic Regression in classification performance
 - Showcased potential of ML in assisting early Parkinson’s detection
@@ -51,3 +49,4 @@
 - Data Preprocessing & EDA
 - Model Training & Evaluation
 - Data Visualization
+
